@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my Profile
 
-<!--
-**itssme/itssme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What am I working on?
 
-Here are some ideas to get you started:
+![compair](image/logo.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am one of the organizers of [compAIR](https://comp-air.at/) as well as their software developer concerning the event.
+
+## Stats
+
+![Ggithub stats](https://github-readme-stats.vercel.app/api?username=itssme&show_icons=true&count_private=true&theme=dark)
+<br>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itssme&theme=dark)
+<br>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itssme&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://komarev.com/ghpvc/?username=itssme&style=flat&color=brightgreen" alt="itssme" />
