@@ -2,7 +2,7 @@
 
 ## What am I working on?
 
-![compair](image/logo.svg)
+![compair](images/logo.svg)
 
 I am one of the organizers of [compAIR](https://comp-air.at/) as well as their software developer concerning the event.
 
