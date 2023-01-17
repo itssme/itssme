@@ -8,11 +8,12 @@ I am one of the organizers of [compAIR](https://comp-air.at/) as well as a softw
 
 ## Stats
 
-![Ggithub stats](https://github-readme-stats.vercel.app/api?username=itssme&show_icons=true&count_private=true&theme=dark)
+
+![Ggithub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=itssme&show_icons=true&count_private=true&theme=dark)
 <br>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itssme&theme=dark)
 <br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itssme&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=itssme&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
