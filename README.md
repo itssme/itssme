@@ -20,14 +20,14 @@ I am one of the organizers of [compAIR](https://comp-air.at/) as well as a softw
 ## I have worked a lot with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,git,c,cpp,cmake,docker,fastapi,flask,git,github,java,linux,postgres,py,raspberrypi,ros,sqlite," />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,git,c,cpp,cmake,docker,fastapi,flask,git,github,java,linux,postgres,py,raspberrypi,ros,sqlite,tailwind,githubactions" />
   </a>
 </p>
 
 ## I have worked a bit with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,githubactions,grafana,graphql,kubernetes,qt,r,tailwind,unity" />
+    <img src="https://skillicons.dev/icons?i=blender,grafana,graphql,kubernetes,qt,r,unity" />
   </a>
 </p>
 
