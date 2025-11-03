@@ -2,12 +2,12 @@
 
 ## What am I working on?
 
-![compair](images/logo.svg)
+[![agile_flight](videos/agile.gif)]()
 
-I am one of the organizers of [compAIR](https://comp-air.at/) as well as a software developer concerning the event.
+Agile autonomous flights using only a rolling shutter monocular camera and an IMU, follow us
+on https://flyby-racing.dev/
 
 ## Stats
-
 
 ![Ggithub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=itssme&show_icons=true&count_private=true&theme=dark)
 <br>
@@ -18,6 +18,7 @@ I am one of the organizers of [compAIR](https://comp-air.at/) as well as a softw
 <hr>
 
 ## I have worked a lot with:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bash,git,c,cpp,cmake,docker,fastapi,flask,git,github,java,linux,postgres,py,raspberrypi,ros,sqlite,tailwind,githubactions" />
@@ -25,6 +26,7 @@ I am one of the organizers of [compAIR](https://comp-air.at/) as well as a softw
 </p>
 
 ## I have worked a bit with:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,grafana,graphql,kubernetes,qt,r,unity" />
